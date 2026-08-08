@@ -1,0 +1,13 @@
+{
+  "assessment": {
+    "concern_level": "moderate",
+    "possible_categories": [
+      "common viral illness",
+      "dehydration",
+      "tension headache"
+    ],
+    "recommended_next_step": "Monitor symptoms, stay hydrated, rest, and consider consulting a healthcare professional if symptoms worsen or persist.",
+    "emergency_warning": false,
+    "disclaimer": "This information is for general guidance and does not replace professional medical advice."
+  }
+}
