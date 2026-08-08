@@ -1,0 +1,15 @@
+{
+  "next_step_engine": {
+    "input": {
+      "symptom": "mild headache",
+      "duration": "1 day",
+      "severity": "mild"
+    },
+    "recommendation": {
+      "step_1": "Review basic self-care measures.",
+      "step_2": "Monitor whether symptoms improve.",
+      "step_3": "Consult a healthcare professional if symptoms persist or worsen.",
+      "step_4": "Seek urgent care if serious warning signs develop."
+    }
+  }
+}
