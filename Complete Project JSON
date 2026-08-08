@@ -1,0 +1,24 @@
+{
+  "project": {
+    "name": "Health: From Confusion to the Right Next Step",
+    "problem": "Users find it difficult to understand health information and determine the appropriate next step.",
+    "target_users": [
+      "Patients",
+      "Caregivers",
+      "People seeking general health information"
+    ],
+    "features": [
+      "Symptom input",
+      "Health information",
+      "Urgency assessment",
+      "Next-step recommendations",
+      "Doctor consultation guidance"
+    ],
+    "goal": "Help users make informed decisions about their next healthcare step.",
+    "safety": {
+      "medical_disclaimer": true,
+      "emergency_guidance": true,
+      "professional_consultation": true
+    }
+  }
+}
