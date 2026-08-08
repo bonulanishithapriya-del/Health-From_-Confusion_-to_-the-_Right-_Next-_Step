@@ -1,0 +1,13 @@
+{
+  "appointment": {
+    "patient_id": "P001",
+    "doctor": {
+      "name": "Dr. Example",
+      "specialty": "General Physician"
+    },
+    "date": "2026-08-12",
+    "time": "10:30",
+    "appointment_type": "in_person",
+    "status": "scheduled"
+  }
+}
