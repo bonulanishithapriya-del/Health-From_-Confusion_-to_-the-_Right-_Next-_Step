@@ -1,0 +1,13 @@
+{
+  "user": {
+    "age": 25,
+    "gender": "female",
+    "symptoms": [
+      "headache",
+      "mild fever",
+      "fatigue"
+    ],
+    "duration": "2 days",
+    "severity": "mild"
+  }
+}
