@@ -1,0 +1,14 @@
+{
+  "health_profile": {
+    "user_id": "U001",
+    "age": 25,
+    "blood_group": "O+",
+    "allergies": [],
+    "medications": [],
+    "medical_history": [],
+    "emergency_contact": {
+      "name": "Emergency Contact",
+      "relationship": "Parent"
+    }
+  }
+}
