@@ -1,0 +1,14 @@
+{
+  "chatbot": {
+    "user_message": "I have been feeling tired for several days. What should I do?",
+    "response": {
+      "message": "Fatigue can have many possible causes. Consider your sleep, hydration, stress, medications, and other symptoms.",
+      "questions": [
+        "How long have you felt tired?",
+        "Are you sleeping well?",
+        "Do you have any other symptoms?"
+      ],
+      "next_step": "If fatigue is persistent, severe, or accompanied by concerning symptoms, consult a healthcare professional."
+    }
+  }
+}
