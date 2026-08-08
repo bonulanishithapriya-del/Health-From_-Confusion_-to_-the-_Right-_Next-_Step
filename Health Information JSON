@@ -1,0 +1,23 @@
+{
+  "health_information": {
+    "topic": "Dehydration",
+    "description": "Dehydration occurs when the body loses more fluids than it takes in.",
+    "common_signs": [
+      "thirst",
+      "dry mouth",
+      "fatigue",
+      "dark urine"
+    ],
+    "general_actions": [
+      "Drink appropriate fluids",
+      "Rest",
+      "Monitor symptoms"
+    ],
+    "seek_medical_help_if": [
+      "Symptoms are severe",
+      "Symptoms continue despite appropriate fluid intake",
+      "There are signs of serious illness"
+    ],
+    "medical_disclaimer": "This information is for general educational purposes and does not replace professional medical advice."
+  }
+}
