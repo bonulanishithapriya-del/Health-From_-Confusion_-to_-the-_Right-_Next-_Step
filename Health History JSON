@@ -1,0 +1,25 @@
+{
+  "health_history": [
+    {
+      "date": "2026-08-01",
+      "concern": "Fever",
+      "symptoms": [
+        "fever",
+        "fatigue"
+      ],
+      "severity": "moderate",
+      "action_taken": "Consulted healthcare professional",
+      "status": "resolved"
+    },
+    {
+      "date": "2026-08-05",
+      "concern": "Headache",
+      "symptoms": [
+        "headache"
+      ],
+      "severity": "mild",
+      "action_taken": "Rest and monitoring",
+      "status": "ongoing"
+    }
+  ]
+}
