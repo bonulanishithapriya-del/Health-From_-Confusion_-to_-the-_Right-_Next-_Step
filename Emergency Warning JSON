@@ -1,0 +1,14 @@
+{
+  "emergency_assessment": {
+    "warning_signs": [
+      "difficulty_breathing",
+      "severe_chest_pain",
+      "loss_of_consciousness",
+      "severe_bleeding",
+      "sudden_confusion"
+    ],
+    "detected": false,
+    "urgency": "non_emergency",
+    "recommendation": "Seek urgent medical care if any serious or rapidly worsening symptoms occur."
+  }
+}
