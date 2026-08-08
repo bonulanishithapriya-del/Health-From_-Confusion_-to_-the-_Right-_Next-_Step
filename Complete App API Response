@@ -1,0 +1,23 @@
+{
+  "health_assistant": {
+    "status": "success",
+    "user_query": {
+      "symptoms": [
+        "cough",
+        "sore throat"
+      ],
+      "duration": "3 days",
+      "severity": "mild"
+    },
+    "guidance": {
+      "category": "general_health",
+      "urgency": "routine",
+      "possible_causes": [
+        "Several conditions can cause these symptoms"
+      ],
+      "recommended_action": "Monitor symptoms and consider consulting a healthcare professional if they persist or worsen."
+    },
+    "red_flags": [],
+    "disclaimer": "The assistant provides general health information and should not be used as a substitute for diagnosis or professional medical care."
+  }
+}
