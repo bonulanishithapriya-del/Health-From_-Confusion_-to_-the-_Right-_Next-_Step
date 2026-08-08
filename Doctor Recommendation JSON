@@ -1,0 +1,9 @@
+{
+  "doctor_guidance": {
+    "health_concern": "persistent headache",
+    "recommended_specialty": "primary_care",
+    "priority": "routine",
+    "reason": "A primary care professional can assess the symptoms and determine whether specialist care is needed.",
+    "action": "Book a medical consultation if symptoms continue or worsen."
+  }
+}
