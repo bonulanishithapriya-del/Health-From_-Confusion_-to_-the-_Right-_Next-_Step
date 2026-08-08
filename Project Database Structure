@@ -1,0 +1,12 @@
+{
+  "database": {
+    "users": [],
+    "health_profiles": [],
+    "symptom_records": [],
+    "appointments": [],
+    "health_articles": [],
+    "doctor_profiles": [],
+    "emergency_resources": [],
+    "chat_history": []
+  }
+}
