@@ -1,0 +1,26 @@
+{
+  "symptom_checker": {
+    "symptoms": [
+      {
+        "name": "Headache",
+        "severity": "mild",
+        "duration": "2 days"
+      },
+      {
+        "name": "Fever",
+        "severity": "moderate",
+        "duration": "1 day"
+      }
+    ],
+    "additional_information": {
+      "age": 25,
+      "existing_conditions": [],
+      "medications": [],
+      "recent_travel": false
+    },
+    "result": {
+      "urgency": "routine",
+      "next_step": "Monitor symptoms and consider consulting a healthcare professional if symptoms persist or worsen."
+    }
+  }
+}
